@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ahmed3abed94
-- 👀 I’m interested in DAta Analysis
+- 👀 I’m interested in Data Analysis
 - 🌱 I’m currently learning DAta Analysis and machine learning
 - 😄 Pronouns: He/Him
 
